@@ -1,0 +1,13 @@
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\bin\Debug\Dni_Con_Monto.exe.config
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\bin\Debug\Dni_Con_Monto.exe
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\bin\Debug\Dni_Con_Monto.pdb
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.csprojAssemblyReference.cache
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.Form1.resources
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.Properties.Resources.resources
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.csproj.GenerateResource.cache
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.csproj.CoreCompileInputs.cache
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.exe
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.pdb
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\bin\Debug\BibliotecaDeClases.dll
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\bin\Debug\BibliotecaDeClases.pdb
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\Dni_Con_Monto\obj\Debug\Dni_Con_Monto.csproj.CopyComplete

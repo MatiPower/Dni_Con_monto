@@ -1,0 +1,6 @@
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Matias\Dni_Con_Monto\Dni_Con_Monto\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
